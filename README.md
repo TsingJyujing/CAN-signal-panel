@@ -7,6 +7,6 @@
 
 目前第一步也仅仅完成了 80% 左右，实在是时间不多，先放出一篇开源以前的文章供参考：
 
-![浅论Javascript在汽车信号测试中的应用](https://www.cnblogs.com/TsingJyujing/p/6851580.html)
+[浅论Javascript在汽车信号测试中的应用](https://www.cnblogs.com/TsingJyujing/p/6851580.html)
 
 这篇文章也就是在开发完这个系统后写的，基本也就是这个测试台架的核心思路。
